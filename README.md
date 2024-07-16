@@ -7,7 +7,7 @@ it runs fullscreen - so press your "esc" escape key to quit!
 Windows, Linux & MacOS (apple silicon) users may need to install OpenJDK v 17.
 https://adoptium.net/en-GB/temurin/releases/?version=17
 
-MacOS (intel) versions will complain about notarisation:
+MacOS versions will complain about notarisation:
 https://github.com/benfry/processing4/wiki/Exporting-Applications#macos
 
 this project was made in dialogue with an LLM in a couple of hours
