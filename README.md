@@ -25,6 +25,8 @@ copy and past the source code into your llm prompt window and tell it what you w
 
 describe what you are doing and what you want it to do and how - for example "this is a processing project I want to modify, making the asteroid shapes more like pasta. Tell me step by step how I might do this and give me commented code to work with."
 
+This is called chain-of-thought reasoning and will assist both you and the AI in converging upon your goal.
+
 iterate your prompts (keep a record in a text doc) and cutnpaste into processing to see if it runs
 
 you will need to have some understanding of coding to make sense of the process - get up to speed with youtube videos: https://youtube.com/playlist?list=PLrC-HcVNfULZoKXd2PRi1Mcl3IhGrBiLk&si=1_flFPgMLvOYj1Yh
