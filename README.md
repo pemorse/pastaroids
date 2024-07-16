@@ -18,4 +18,4 @@ this project was made in dialogue with an LLM in a couple of hours
 feel free to clone and modify and make it more pastaesque
 fusilli, orecchiette, farfalle welcome (thanks DrB!)
 
-use at your own risk.
+consume at your own risk.
