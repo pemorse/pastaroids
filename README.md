@@ -10,7 +10,7 @@ https://adoptium.net/en-GB/temurin/releases/?version=17
 MacOS (intel) versions will complain about notarisation:
 https://github.com/benfry/processing4/wiki/Exporting-Applications#macos
 
-this project was made in dialogue with ChatGPT in a couple of hours
+this project was made in dialogue with an LLM in a couple of hours
 
 feel free to clone and modify
 use at your own risk.
